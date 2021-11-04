@@ -1,5 +1,5 @@
 sentence = """Hey Boo
-Want som tonight"""
+Want dinner tonight"""
 print (sentence)
 print(type(sentence))
 
